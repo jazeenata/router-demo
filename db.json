@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"shampoo",
+            "price": 499
+        },
+        {
+            "id":2,
+            "name":"baby shampoo",
+            "price": 300
+        },
+        {
+            "id":3,
+            "name":"paste",
+            "price": 150
+        },
+        {
+            "id":4,
+            "name":"soap",
+            "price": 200
+        }
+    ],
+    "categories":[
+        {
+            "id":1,
+            "name":"hair care"
+        },
+        {
+            "id":2,
+            "name":"body care"
+        }
+    ]
+}
